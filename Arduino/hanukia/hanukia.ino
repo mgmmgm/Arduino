@@ -215,7 +215,7 @@ void lightHanukia(int num) {
   moveUp2();
   goToCandle(9);
   delay(1000);
-  moveUp2();
+  moveToStartPosition();
   playMusic();
 }
 
